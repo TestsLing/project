@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "laravel_5.5/package.json"
+      ]
+    }
+  }
+}
